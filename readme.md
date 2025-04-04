@@ -2,6 +2,12 @@
 
 ---
 
+## GitHub Action Status
+
+![GitHub Actions Status](https://github.com/JaswanthKSnjit/homework9/actions/workflows/production.yml/badge.svg)
+
+---
+
 ## VS Code terminal
 
 ![terminal](terminal.png)
